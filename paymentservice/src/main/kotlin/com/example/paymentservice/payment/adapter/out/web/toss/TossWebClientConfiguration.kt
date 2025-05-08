@@ -1,4 +1,4 @@
-package com.example.paymentservice.payment.adapter.out.web.config
+package com.example.paymentservice.payment.adapter.out.web.toss
 
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.context.annotation.Bean
